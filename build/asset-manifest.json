@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/ahmadcv/static/css/main.427275ce.chunk.css",
-    "main.js": "/ahmadcv/static/js/main.dbfb4f7b.chunk.js",
-    "main.js.map": "/ahmadcv/static/js/main.dbfb4f7b.chunk.js.map",
-    "runtime-main.js": "/ahmadcv/static/js/runtime-main.5964f0e5.js",
-    "runtime-main.js.map": "/ahmadcv/static/js/runtime-main.5964f0e5.js.map",
-    "static/css/2.cbc5e724.chunk.css": "/ahmadcv/static/css/2.cbc5e724.chunk.css",
-    "static/js/2.6d4a822b.chunk.js": "/ahmadcv/static/js/2.6d4a822b.chunk.js",
-    "static/js/2.6d4a822b.chunk.js.map": "/ahmadcv/static/js/2.6d4a822b.chunk.js.map",
-    "index.html": "/ahmadcv/index.html",
-    "precache-manifest.f21940b4a6adf6981a2ad3262402d10c.js": "/ahmadcv/precache-manifest.f21940b4a6adf6981a2ad3262402d10c.js",
-    "service-worker.js": "/ahmadcv/service-worker.js",
-    "static/css/2.cbc5e724.chunk.css.map": "/ahmadcv/static/css/2.cbc5e724.chunk.css.map",
-    "static/css/main.427275ce.chunk.css.map": "/ahmadcv/static/css/main.427275ce.chunk.css.map",
-    "static/js/2.6d4a822b.chunk.js.LICENSE.txt": "/ahmadcv/static/js/2.6d4a822b.chunk.js.LICENSE.txt",
-    "static/media/ahmad.jpg": "/ahmadcv/static/media/ahmad.8f65ed4e.jpg"
+    "main.css": "/CV_ahmad/static/css/main.427275ce.chunk.css",
+    "main.js": "/CV_ahmad/static/js/main.4d9c8c5e.chunk.js",
+    "main.js.map": "/CV_ahmad/static/js/main.4d9c8c5e.chunk.js.map",
+    "runtime-main.js": "/CV_ahmad/static/js/runtime-main.906108a7.js",
+    "runtime-main.js.map": "/CV_ahmad/static/js/runtime-main.906108a7.js.map",
+    "static/css/2.cbc5e724.chunk.css": "/CV_ahmad/static/css/2.cbc5e724.chunk.css",
+    "static/js/2.9d258b5e.chunk.js": "/CV_ahmad/static/js/2.9d258b5e.chunk.js",
+    "static/js/2.9d258b5e.chunk.js.map": "/CV_ahmad/static/js/2.9d258b5e.chunk.js.map",
+    "index.html": "/CV_ahmad/index.html",
+    "precache-manifest.6dea8037deb3754b8553414b416173a7.js": "/CV_ahmad/precache-manifest.6dea8037deb3754b8553414b416173a7.js",
+    "service-worker.js": "/CV_ahmad/service-worker.js",
+    "static/css/2.cbc5e724.chunk.css.map": "/CV_ahmad/static/css/2.cbc5e724.chunk.css.map",
+    "static/css/main.427275ce.chunk.css.map": "/CV_ahmad/static/css/main.427275ce.chunk.css.map",
+    "static/js/2.9d258b5e.chunk.js.LICENSE.txt": "/CV_ahmad/static/js/2.9d258b5e.chunk.js.LICENSE.txt",
+    "static/media/ahmad.jpg": "/CV_ahmad/static/media/ahmad.8f65ed4e.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5964f0e5.js",
+    "static/js/runtime-main.906108a7.js",
     "static/css/2.cbc5e724.chunk.css",
-    "static/js/2.6d4a822b.chunk.js",
+    "static/js/2.9d258b5e.chunk.js",
     "static/css/main.427275ce.chunk.css",
-    "static/js/main.dbfb4f7b.chunk.js"
+    "static/js/main.4d9c8c5e.chunk.js"
   ]
 }
