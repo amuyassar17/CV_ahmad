@@ -27,7 +27,7 @@ class Education extends Component {
                             <tr>
 								<td>S2 - Universitas Gadjah Mada</td>
 								<td>2019</td>
-								<td>Present</td>
+								<td>2022</td>
 							</tr>
 						</tbody>
 					</table>
